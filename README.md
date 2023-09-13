@@ -1,3 +1,4 @@
 # Coding_Club
 Test Repository
-THis is a practice template 
+
+This is a practice template 
